@@ -14,4 +14,4 @@ actor Main
 ```
 
 # License
-  - MIT
+  - [MIT](https://github.com/molnarmark/hostler/blob/master/LICENSE)
